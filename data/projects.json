@@ -1,0 +1,350 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "RAG_Microservice-",
+      "description": "RAG-Microservice: A robust, scalable question-answering service leveraging the Retriever-Answer Generator (RAG) architecture. Built with [Tech/Models used, e.g., Elasticsearch, GPT-3], this service efficiently retrieves relevant documents and generates precise answers for complex queries. ",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Dockerfile",
+        "Shell"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/RAG_Microservice-",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 16,
+        "forks": 2,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "comprehensive-mcp-guide",
+      "description": " The Complete Model Context Protocol (MCP) Guide - 181 files, 15+ commits, 100+ examples",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 1,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "Gator_taxi_Advanced_data_struc",
+      "description": "GatorTaxi is a ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides, ensuring fast operations. With O(log n) complexity, it handles up to 2000 active rides, offering optimal performance for real-time ride management.",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python",
+        "Makefile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 1,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "bank-app-spring-cloud-microservices",
+      "description": "Practice repository for exploring advanced features",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Java"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "language": "Java"
+      }
+    },
+    {
+      "title": "minikeyvalue",
+      "description": "Interactive application built for continuous learning",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Go",
+        "Python",
+        "Shell",
+        "Dockerfile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/minikeyvalue",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "language": "Go"
+      }
+    },
+    {
+      "title": "portfolio",
+      "description": "A modern, responsive portfolio template with JSON-driven content, beautiful design, and easy customization. Perfect for developers, designers, and professionals.",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "Shell",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/portfolio",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 1,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "python-for-automating-information-security",
+      "description": "Hands-on learning experience with modern frameworks",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/python-for-automating-information-security",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "symptom-checker-chatbot",
+      "description": "Interactive application built for continuous learning",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "HTML",
+        "Python",
+        "JavaScript",
+        "CSS"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/symptom-checker-chatbot",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML"
+      }
+    },
+    {
+      "title": "KushagraSikka.github.io-9602",
+      "description": "Professional portfolio for KushagraSikka",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/KushagraSikka.github.io-9602",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "CSS"
+      }
+    },
+    {
+      "title": "about-section-fix-test",
+      "description": "Professional portfolio for KushagraSikka",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/about-section-fix-test",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "CSS"
+      }
+    },
+    {
+      "title": "modern-portfolio-test-1114",
+      "description": "Professional portfolio for KushagraSikka",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/modern-portfolio-test-1114",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "CSS"
+      }
+    },
+    {
+      "title": "KushagraSikka.github.io",
+      "description": "Professional portfolio for KushagraSikka",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/KushagraSikka.github.io",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "CSS"
+      }
+    },
+    {
+      "title": "sentiment-analysis-webapp-sagemaker",
+      "description": "Full-featured application built as a learning exercise",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "itinerary-planner",
+      "description": "Personal development project using industry best practices",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Java",
+        "CSS",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/itinerary-planner",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Java"
+      }
+    },
+    {
+      "title": "patient-appointment-system",
+      "description": "Hands-on learning experience with modern frameworks",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/KushagraSikka/patient-appointment-system",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    }
+  ]
+}

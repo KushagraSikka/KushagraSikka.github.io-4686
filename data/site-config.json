@@ -1,0 +1,13 @@
+{
+  "title": "Arshya JAIN - Professional Portfolio",
+  "description": "Professional portfolio showcasing my work and experience",
+  "author": "Arshya JAIN",
+  "keywords": "MS Excel, PowerPoint, Word, PDF, Canva, SPSS, Tableau, Odoo (ERP), English, French, Hindi",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}

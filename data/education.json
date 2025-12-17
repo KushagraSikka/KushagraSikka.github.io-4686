@@ -1,0 +1,25 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "MSc in Marketing Management",
+      "institution": "EDHEC Business School",
+      "period": "August 2025 - May 2026",
+      "description": "MSc in Marketing Management in Marketing Management",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "degree": "Bachelors of Commerce",
+      "institution": "SGTB Khalsa College, Delhi University",
+      "period": "July 2019-June 2025",
+      "description": "Bachelors of Commerce in Commerce - GPA: 8.68",
+      "achievements": [],
+      "color": "#764ba2",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

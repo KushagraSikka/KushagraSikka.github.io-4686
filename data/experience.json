@@ -1,0 +1,41 @@
+{
+  "sectionTitle": "Work Experience",
+  "experiences": [
+    {
+      "title": "Marketing Manager",
+      "company": "Aadinath UV Pack Pvt Ltd",
+      "location": "",
+      "period": "October 2024 - August 2025",
+      "type": "Full-time",
+      "color": "#667eea",
+      "icon": "fas fa-briefcase",
+      "description": "Headed new product development and packaging design on the Dove Dream Project (Hindustan Unilever).\nDesigned and implemented a customer onboarding and service journey framework, improving operational efficiency and achieving a 90% customer satisfaction score.\nDrove market expansion by leading high impact campaigns and showcasing at top exhibitions like Cosmoprof Mumbai and CMPL Delhi.",
+      "responsibilities": [],
+      "technologies": []
+    },
+    {
+      "title": "MIS and Operations Executive",
+      "company": "Aadinath UV Pack Pvt Ltd",
+      "location": "",
+      "period": "August 2023 - October 2024",
+      "type": "Full-time",
+      "color": "#764ba2",
+      "icon": "fas fa-briefcase",
+      "description": "Drove profitability by analyzing daily work center performance and implementing reward and recognition strategies.\nSpearheaded automation initiatives, collaborated with Odoo to develop and implement a tailored ERP solution.\nLed cultural transformation for a team of 350 blue-collar employees.",
+      "responsibilities": [],
+      "technologies": []
+    },
+    {
+      "title": "Assurance Associate",
+      "company": "Ernst & Young",
+      "location": "",
+      "period": "July 2022 - August 2023",
+      "type": "Full-time",
+      "color": "#f093fb",
+      "icon": "fas fa-briefcase",
+      "description": "Prepared high quality audit and assurance workpapers in alignment with EY Global methodology for US SEC Clients.\nServed as the primary point of contact from EY India, liaising with global teams through calls and meetings to share updates, insights, and feedback.\nAwarded the Social Impact Champion Award at EY for demonstrating exceptional proactivity.",
+      "responsibilities": [],
+      "technologies": []
+    }
+  ]
+}

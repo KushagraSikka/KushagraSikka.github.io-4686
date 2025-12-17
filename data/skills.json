@@ -1,0 +1,32 @@
+{
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-code",
+      "color": "#667eea",
+      "skills": [
+        "MS Excel",
+        "PowerPoint",
+        "Word",
+        "PDF",
+        "Canva",
+        "SPSS",
+        "Tableau",
+        "Odoo (ERP)"
+      ]
+    },
+    {
+      "category": "Tools & Frameworks",
+      "icon": "fas fa-tools",
+      "color": "#764ba2",
+      "skills": [
+        "Tableau",
+        "Odoo (ERP)",
+        "English",
+        "French",
+        "Hindi"
+      ]
+    }
+  ]
+}
