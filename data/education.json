@@ -32,30 +32,30 @@
   "certificationsTitle": "Certifications & Awards",
   "certifications": [
     {
-      "name": "Social Impact Champion Award",
+      "title": "Social Impact Champion Award",
       "issuer": "Ernst & Young",
-      "year": "2023",
+      "date": "2023",
       "icon": "fas fa-trophy",
       "color": "#ec4899"
     },
     {
-      "name": "Digital Marketing Certification",
+      "title": "Digital Marketing Certification",
       "issuer": "Google Digital Garage",
-      "year": "2021",
+      "date": "2021",
       "icon": "fab fa-google",
       "color": "#10b981"
     },
     {
-      "name": "Personal Branding",
+      "title": "Personal Branding",
       "issuer": "Udemy",
-      "year": "2022",
+      "date": "2022",
       "icon": "fas fa-certificate",
       "color": "#f59e0b"
     },
     {
-      "name": "Interpersonal Communication",
+      "title": "Interpersonal Communication",
       "issuer": "Skillsoft",
-      "year": "2022",
+      "date": "2022",
       "icon": "fas fa-comments",
       "color": "#6366f1"
     }
