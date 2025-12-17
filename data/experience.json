@@ -1,41 +1,56 @@
 {
-  "sectionTitle": "Work Experience",
+  "sectionTitle": "Professional Experience",
   "experiences": [
     {
       "title": "Marketing Manager",
       "company": "Aadinath UV Pack Pvt Ltd",
-      "location": "",
+      "location": "Haryana, India",
       "period": "October 2024 - August 2025",
       "type": "Full-time",
-      "color": "#667eea",
-      "icon": "fas fa-briefcase",
-      "description": "Headed new product development and packaging design on the Dove Dream Project (Hindustan Unilever).\nDesigned and implemented a customer onboarding and service journey framework, improving operational efficiency and achieving a 90% customer satisfaction score.\nDrove market expansion by leading high impact campaigns and showcasing at top exhibitions like Cosmoprof Mumbai and CMPL Delhi.",
-      "responsibilities": [],
-      "technologies": []
+      "color": "#6366f1",
+      "icon": "fas fa-bullhorn",
+      "description": "Led strategic marketing initiatives for a packaging solutions company serving major FMCG brands.",
+      "responsibilities": [
+        "Spearheaded new product development and packaging design for the Dove Dream Project (Hindustan Unilever)",
+        "Architected customer onboarding and service journey framework achieving 90% customer satisfaction score",
+        "Led market expansion through high-impact campaigns at Cosmoprof Mumbai and CMPL Delhi exhibitions",
+        "Managed end-to-end brand communication and product positioning strategies"
+      ],
+      "technologies": ["Brand Strategy", "Product Development", "Customer Journey Mapping", "Market Expansion"]
     },
     {
-      "title": "MIS and Operations Executive",
+      "title": "MIS & Operations Executive",
       "company": "Aadinath UV Pack Pvt Ltd",
-      "location": "",
+      "location": "Gurgaon, India",
       "period": "August 2023 - October 2024",
       "type": "Full-time",
-      "color": "#764ba2",
-      "icon": "fas fa-briefcase",
-      "description": "Drove profitability by analyzing daily work center performance and implementing reward and recognition strategies.\nSpearheaded automation initiatives, collaborated with Odoo to develop and implement a tailored ERP solution.\nLed cultural transformation for a team of 350 blue-collar employees.",
-      "responsibilities": [],
-      "technologies": []
+      "color": "#8b5cf6",
+      "icon": "fas fa-cogs",
+      "description": "Drove operational excellence through data analytics and digital transformation initiatives.",
+      "responsibilities": [
+        "Enhanced profitability through daily work center performance analytics and KPI tracking",
+        "Led enterprise-wide automation by partnering with Odoo to implement customized ERP solution",
+        "Designed and implemented performance-based reward and recognition programs",
+        "Drove cultural transformation initiative for 350+ blue-collar employees"
+      ],
+      "technologies": ["Odoo ERP", "Data Analytics", "Process Optimization", "Change Management"]
     },
     {
       "title": "Assurance Associate",
-      "company": "Ernst & Young",
-      "location": "",
+      "company": "Ernst & Young (EY)",
+      "location": "Gurgaon, India",
       "period": "July 2022 - August 2023",
       "type": "Full-time",
-      "color": "#f093fb",
-      "icon": "fas fa-briefcase",
-      "description": "Prepared high quality audit and assurance workpapers in alignment with EY Global methodology for US SEC Clients.\nServed as the primary point of contact from EY India, liaising with global teams through calls and meetings to share updates, insights, and feedback.\nAwarded the Social Impact Champion Award at EY for demonstrating exceptional proactivity.",
-      "responsibilities": [],
-      "technologies": []
+      "color": "#ec4899",
+      "icon": "fas fa-search-dollar",
+      "description": "Delivered audit and assurance services for US SEC-listed clients following EY Global methodology.",
+      "responsibilities": [
+        "Prepared high-quality audit and assurance workpapers for US SEC-listed clients",
+        "Served as primary liaison between EY India and global teams for cross-border communications",
+        "Conducted financial analysis and risk assessments following EY Global methodology",
+        "Recognized with Social Impact Champion Award for exceptional proactivity and community engagement"
+      ],
+      "technologies": ["Financial Analysis", "Audit & Assurance", "Global Collaboration", "Risk Assessment"]
     }
   ]
 }

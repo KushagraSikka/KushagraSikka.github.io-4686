@@ -1,12 +1,12 @@
 {
-  "title": "Arshya JAIN - Professional Portfolio",
-  "description": "Professional portfolio showcasing my work and experience",
-  "author": "Arshya JAIN",
-  "keywords": "MS Excel, PowerPoint, Word, PDF, Canva, SPSS, Tableau, Odoo (ERP), English, French, Hindi",
+  "title": "Arshya Jain | Marketing Professional & Brand Strategist",
+  "description": "Results-driven marketing professional with expertise in brand management, FMCG product development, and data-led decision making. MSc Marketing Management at EDHEC Business School.",
+  "author": "Arshya Jain",
+  "keywords": "Marketing Manager, Brand Strategy, FMCG, Product Development, Hindustan Unilever, Dove, ERP Implementation, Data Analytics, EDHEC Business School, Ernst & Young, Customer Experience",
   "ogImage": "/assets/images/og-image.jpg",
   "favicon": "/assets/images/favicon.ico",
   "theme": {
-    "primaryColor": "#3b82f6",
+    "primaryColor": "#6366f1",
     "secondaryColor": "#8b5cf6",
     "accentColor": "#ec4899"
   }

@@ -1,39 +1,39 @@
 {
   "greeting": "Hello, I'm",
-  "name": "Arshya JAIN",
-  "title": "Professional Developer",
-  "tagline": "Professional Developer",
-  "summary": "Welcome to my portfolio",
+  "name": "Arshya Jain",
+  "title": "Marketing Professional & Brand Strategist",
+  "tagline": "Driving Growth Through Data-Led Marketing",
+  "summary": "I transform brands through strategic marketing, innovative product development, and customer-centric solutions. Currently pursuing MSc in Marketing Management at EDHEC Business School.",
   "highlights": [
     {
-      "icon": "fas fa-briefcase",
-      "color": "#667eea",
-      "text": "3+ Years Experience"
+      "icon": "fas fa-chart-line",
+      "color": "#6366f1",
+      "text": "90% Customer Satisfaction"
     },
     {
-      "icon": "fas fa-project-diagram",
-      "color": "#764ba2",
-      "text": "15+ Projects Completed"
+      "icon": "fas fa-building",
+      "color": "#8b5cf6",
+      "text": "Fortune 500 Experience"
     },
     {
-      "icon": "fas fa-code",
-      "color": "#f093fb",
-      "text": "11+ Technologies"
+      "icon": "fas fa-award",
+      "color": "#ec4899",
+      "text": "EY Award Winner"
     }
   ],
   "cta": {
     "buttons": [
       {
-        "href": "#projects",
+        "href": "#experience",
         "type": "primary",
-        "icon": "fas fa-folder-open",
-        "text": "View Projects"
+        "icon": "fas fa-briefcase",
+        "text": "View Experience"
       },
       {
         "href": "#contact",
         "type": "secondary",
         "icon": "fas fa-envelope",
-        "text": "Contact Me"
+        "text": "Get In Touch"
       }
     ]
   },
@@ -42,6 +42,11 @@
       "url": "https://www.linkedin.com/in/arshya-jain-692262216/",
       "platform": "LinkedIn",
       "icon": "fab fa-linkedin"
+    },
+    {
+      "url": "mailto:arshya.jain@edhec.com",
+      "platform": "Email",
+      "icon": "fas fa-envelope"
     }
   ],
   "scrollIndicator": {

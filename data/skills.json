@@ -1,31 +1,66 @@
 {
-  "sectionTitle": "Skills & Technologies",
+  "sectionTitle": "Skills & Expertise",
   "categories": [
     {
-      "category": "Technical Skills",
-      "icon": "fas fa-code",
-      "color": "#667eea",
+      "category": "Marketing & Brand Strategy",
+      "icon": "fas fa-bullhorn",
+      "color": "#6366f1",
       "skills": [
-        "MS Excel",
-        "PowerPoint",
-        "Word",
-        "PDF",
-        "Canva",
-        "SPSS",
-        "Tableau",
-        "Odoo (ERP)"
+        "Brand Management",
+        "Product Development",
+        "Market Research",
+        "Campaign Management",
+        "Customer Journey Mapping",
+        "Go-to-Market Strategy"
       ]
     },
     {
-      "category": "Tools & Frameworks",
-      "icon": "fas fa-tools",
-      "color": "#764ba2",
+      "category": "Analytics & Business Intelligence",
+      "icon": "fas fa-chart-bar",
+      "color": "#8b5cf6",
       "skills": [
+        "MS Excel (Advanced)",
         "Tableau",
-        "Odoo (ERP)",
-        "English",
-        "French",
-        "Hindi"
+        "SPSS",
+        "Data Visualization",
+        "KPI Tracking",
+        "Performance Analytics"
+      ]
+    },
+    {
+      "category": "Operations & Management",
+      "icon": "fas fa-tasks",
+      "color": "#ec4899",
+      "skills": [
+        "ERP Implementation (Odoo)",
+        "Process Optimization",
+        "Team Leadership",
+        "Change Management",
+        "Project Management",
+        "Audit & Compliance"
+      ]
+    },
+    {
+      "category": "Tools & Communication",
+      "icon": "fas fa-tools",
+      "color": "#10b981",
+      "skills": [
+        "Canva",
+        "Microsoft Office Suite",
+        "Presentation Design",
+        "Cross-functional Collaboration",
+        "Stakeholder Management",
+        "Client Relations"
+      ]
+    },
+    {
+      "category": "Languages",
+      "icon": "fas fa-globe",
+      "color": "#f59e0b",
+      "skills": [
+        "English (C2 - Proficient)",
+        "Hindi (C2 - Native)",
+        "French (A1 - Beginner)"
       ]
     }
   ]

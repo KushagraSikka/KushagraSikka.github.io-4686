@@ -1,349 +1,178 @@
 {
-  "sectionTitle": "Featured Projects",
+  "sectionTitle": "Key Achievements & Projects",
   "projects": [
     {
-      "title": "RAG_Microservice-",
-      "description": "RAG-Microservice: A robust, scalable question-answering service leveraging the Retriever-Answer Generator (RAG) architecture. Built with [Tech/Models used, e.g., Elasticsearch, GPT-3], this service efficiently retrieves relevant documents and generates precise answers for complex queries. ",
-      "color": "#667eea",
-      "icon": "fab fa-github",
+      "title": "Dove Dream Project - Hindustan Unilever",
+      "description": "Led end-to-end product development and packaging design for Hindustan Unilever's Dove brand. Managed cross-functional collaboration between design, manufacturing, and brand teams to deliver innovative packaging solutions meeting global quality standards.",
+      "color": "#6366f1",
+      "icon": "fas fa-box-open",
       "technologies": [
-        "Python",
-        "TypeScript",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Dockerfile",
-        "Shell"
+        "Product Development",
+        "Brand Collaboration",
+        "Packaging Design",
+        "FMCG",
+        "Quality Assurance"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/KushagraSikka/RAG_Microservice-",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 16,
-        "forks": 2,
-        "language": "Python"
-      }
-    },
-    {
-      "title": "comprehensive-mcp-guide",
-      "description": " The Complete Model Context Protocol (MCP) Guide - 181 files, 15+ commits, 100+ examples",
-      "color": "#764ba2",
-      "icon": "fab fa-github",
-      "technologies": [
-        "JavaScript"
+      "keyFeatures": [
+        "Collaborated with Hindustan Unilever brand team",
+        "Managed full product development lifecycle",
+        "Delivered innovative packaging solutions"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
+      "projectType": "Brand Partnership",
+      "highlight": "Fortune 500 Client",
       "links": {
-        "github": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 1,
-        "forks": 1,
-        "language": "JavaScript"
-      }
-    },
-    {
-      "title": "Gator_taxi_Advanced_data_struc",
-      "description": "GatorTaxi is a ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides, ensuring fast operations. With O(log n) complexity, it handles up to 2000 active rides, offering optimal performance for real-time ride management.",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Python",
-        "Makefile"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 1,
-        "forks": 1,
-        "language": "Python"
-      }
-    },
-    {
-      "title": "bank-app-spring-cloud-microservices",
-      "description": "Practice repository for exploring advanced features",
-      "color": "#4facfe",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Java"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 1,
-        "forks": 0,
-        "language": "Java"
-      }
-    },
-    {
-      "title": "minikeyvalue",
-      "description": "Interactive application built for continuous learning",
-      "color": "#667eea",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Go",
-        "Python",
-        "Shell",
-        "Dockerfile"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/KushagraSikka/minikeyvalue",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 1,
-        "forks": 0,
-        "language": "Go"
-      }
-    },
-    {
-      "title": "portfolio",
-      "description": "A modern, responsive portfolio template with JSON-driven content, beautiful design, and easy customization. Perfect for developers, designers, and professionals.",
-      "color": "#764ba2",
-      "icon": "fab fa-github",
-      "technologies": [
-        "JavaScript",
-        "CSS",
-        "Shell",
-        "HTML"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/KushagraSikka/portfolio",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 1,
-        "language": "JavaScript"
-      }
-    },
-    {
-      "title": "python-for-automating-information-security",
-      "description": "Hands-on learning experience with modern frameworks",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Python"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/KushagraSikka/python-for-automating-information-security",
+        "github": "",
         "demo": ""
       },
       "stats": {
         "stars": 0,
         "forks": 0,
-        "language": "Python"
+        "language": ""
       }
     },
     {
-      "title": "symptom-checker-chatbot",
-      "description": "Interactive application built for continuous learning",
-      "color": "#4facfe",
-      "icon": "fab fa-github",
+      "title": "Customer Journey Framework",
+      "description": "Designed and implemented a comprehensive customer onboarding and service journey framework that transformed the customer experience. Achieved 90% customer satisfaction score through systematic touchpoint optimization and service excellence initiatives.",
+      "color": "#8b5cf6",
+      "icon": "fas fa-route",
       "technologies": [
-        "HTML",
-        "Python",
-        "JavaScript",
-        "CSS"
+        "Customer Experience",
+        "Journey Mapping",
+        "Service Design",
+        "Process Optimization",
+        "KPI Tracking"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
+      "keyFeatures": [
+        "90% customer satisfaction achieved",
+        "End-to-end journey mapping",
+        "Service touchpoint optimization"
+      ],
+      "projectType": "Customer Experience",
+      "highlight": "90% Satisfaction Score",
       "links": {
-        "github": "https://github.com/KushagraSikka/symptom-checker-chatbot",
+        "github": "",
         "demo": ""
       },
       "stats": {
         "stars": 0,
         "forks": 0,
-        "language": "HTML"
+        "language": ""
       }
     },
     {
-      "title": "KushagraSikka.github.io-9602",
-      "description": "Professional portfolio for KushagraSikka",
-      "color": "#667eea",
-      "icon": "fab fa-github",
+      "title": "Enterprise ERP Implementation",
+      "description": "Spearheaded the implementation of Odoo ERP across the organization, partnering directly with the Odoo team to develop a tailored solution. Drove digital transformation and process automation across multiple departments.",
+      "color": "#ec4899",
+      "icon": "fas fa-database",
       "technologies": [
-        "CSS",
-        "JavaScript",
-        "HTML"
+        "Odoo ERP",
+        "Digital Transformation",
+        "Process Automation",
+        "Change Management",
+        "System Integration"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
+      "keyFeatures": [
+        "Enterprise-wide implementation",
+        "Custom module development",
+        "Cross-departmental integration"
+      ],
+      "projectType": "Digital Transformation",
+      "highlight": "Company-wide Impact",
       "links": {
-        "github": "https://github.com/KushagraSikka/KushagraSikka.github.io-9602",
+        "github": "",
         "demo": ""
       },
       "stats": {
         "stars": 0,
         "forks": 0,
-        "language": "CSS"
+        "language": ""
       }
     },
     {
-      "title": "about-section-fix-test",
-      "description": "Professional portfolio for KushagraSikka",
-      "color": "#764ba2",
-      "icon": "fab fa-github",
+      "title": "Workforce Cultural Transformation",
+      "description": "Led a comprehensive cultural transformation initiative for 350+ blue-collar employees. Implemented reward and recognition programs, performance analytics, and engagement strategies that significantly improved workforce productivity and morale.",
+      "color": "#10b981",
+      "icon": "fas fa-users-cog",
       "technologies": [
-        "CSS",
-        "JavaScript",
-        "HTML"
+        "Change Management",
+        "Team Leadership",
+        "Performance Management",
+        "Employee Engagement",
+        "HR Analytics"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
+      "keyFeatures": [
+        "350+ employees impacted",
+        "Reward & recognition programs",
+        "Performance-based incentives"
+      ],
+      "projectType": "Leadership Initiative",
+      "highlight": "350+ Team Members",
       "links": {
-        "github": "https://github.com/KushagraSikka/about-section-fix-test",
+        "github": "",
         "demo": ""
       },
       "stats": {
         "stars": 0,
         "forks": 0,
-        "language": "CSS"
+        "language": ""
       }
     },
     {
-      "title": "modern-portfolio-test-1114",
-      "description": "Professional portfolio for KushagraSikka",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
+      "title": "Lacoste Marketing Strategy Challenge",
+      "description": "Competed in the prestigious Lacoste International Marketing Strategy Challenge at EDHEC Business School. Developed comprehensive market analysis, brand positioning strategy, and go-to-market plan that earned Runner-up position among international teams.",
+      "color": "#f59e0b",
+      "icon": "fas fa-trophy",
       "technologies": [
-        "CSS",
-        "JavaScript",
-        "HTML"
+        "Market Analysis",
+        "Brand Strategy",
+        "Competitive Analysis",
+        "Presentation",
+        "Strategic Planning"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
+      "keyFeatures": [
+        "International competition",
+        "Runner-up position",
+        "Comprehensive brand strategy"
+      ],
+      "projectType": "Case Competition",
+      "highlight": "Runner-up Winner",
       "links": {
-        "github": "https://github.com/KushagraSikka/modern-portfolio-test-1114",
+        "github": "",
         "demo": ""
       },
       "stats": {
         "stars": 0,
         "forks": 0,
-        "language": "CSS"
+        "language": ""
       }
     },
     {
-      "title": "KushagraSikka.github.io",
-      "description": "Professional portfolio for KushagraSikka",
-      "color": "#4facfe",
-      "icon": "fab fa-github",
+      "title": "Trade Show Marketing - Cosmoprof & CMPL",
+      "description": "Drove market expansion by representing the company at premier industry exhibitions including Cosmoprof Mumbai and CMPL Delhi. Led high-impact marketing campaigns, client engagement activities, and brand showcasing initiatives.",
+      "color": "#6366f1",
+      "icon": "fas fa-store",
       "technologies": [
-        "CSS",
-        "JavaScript",
-        "HTML"
+        "Event Marketing",
+        "B2B Sales",
+        "Brand Showcase",
+        "Client Engagement",
+        "Market Expansion"
       ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
+      "keyFeatures": [
+        "Premier industry exhibitions",
+        "Lead generation campaigns",
+        "Brand visibility enhancement"
+      ],
+      "projectType": "Marketing Campaign",
+      "highlight": "Industry Exhibitions",
       "links": {
-        "github": "https://github.com/KushagraSikka/KushagraSikka.github.io",
+        "github": "",
         "demo": ""
       },
       "stats": {
         "stars": 0,
         "forks": 0,
-        "language": "CSS"
-      }
-    },
-    {
-      "title": "sentiment-analysis-webapp-sagemaker",
-      "description": "Full-featured application built as a learning exercise",
-      "color": "#667eea",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Jupyter Notebook",
-        "Python",
-        "HTML"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/KushagraSikka/sentiment-analysis-webapp-sagemaker",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Jupyter Notebook"
-      }
-    },
-    {
-      "title": "itinerary-planner",
-      "description": "Personal development project using industry best practices",
-      "color": "#764ba2",
-      "icon": "fab fa-github",
-      "technologies": [
-        "Java",
-        "CSS",
-        "HTML"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/KushagraSikka/itinerary-planner",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "Java"
-      }
-    },
-    {
-      "title": "patient-appointment-system",
-      "description": "Hands-on learning experience with modern frameworks",
-      "color": "#f093fb",
-      "icon": "fab fa-github",
-      "technologies": [
-        "JavaScript",
-        "CSS",
-        "HTML"
-      ],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/KushagraSikka/patient-appointment-system",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": "JavaScript"
+        "language": ""
       }
     }
   ]

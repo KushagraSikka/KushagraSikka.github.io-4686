@@ -1,23 +1,28 @@
 {
-  "tagline": "Building the future, one line of code at a time.",
+  "tagline": "Transforming brands through strategic marketing and data-driven insights.",
   "socialLinks": [
     {
       "url": "https://www.linkedin.com/in/arshya-jain-692262216/",
       "platform": "LinkedIn",
       "icon": "fab fa-linkedin"
+    },
+    {
+      "url": "mailto:arshya.jain@edhec.com",
+      "platform": "Email",
+      "icon": "fas fa-envelope"
     }
   ],
   "copyright": {
-    "text": "© 2025 Arshya JAIN. All rights reserved."
+    "text": "2025 Arshya Jain. All rights reserved."
   },
   "links": [
     {
-      "href": "#",
-      "text": "Privacy Policy"
+      "href": "#home",
+      "text": "Back to Top"
     },
     {
-      "href": "#",
-      "text": "Terms of Service"
+      "href": "https://www.linkedin.com/in/arshya-jain-692262216/",
+      "text": "Connect on LinkedIn"
     }
   ]
 }

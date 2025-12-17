@@ -5,21 +5,59 @@
       "degree": "MSc in Marketing Management",
       "institution": "EDHEC Business School",
       "period": "August 2025 - May 2026",
-      "description": "MSc in Marketing Management in Marketing Management",
-      "achievements": [],
-      "color": "#667eea",
+      "location": "Lille, France",
+      "description": "Top-ranked European business school. Coursework includes Strategic Management, Brand & Communication Management, Product Development & Innovation, Marketing Intelligence, and International Marketing Strategy.",
+      "achievements": [
+        "Runner-up in Lacoste International Marketing Strategy Challenge (November 2025)",
+        "Member of Namaste Francaise - Leading Indian cultural events and cross-cultural initiatives"
+      ],
+      "color": "#6366f1",
       "icon": "fas fa-graduation-cap"
     },
     {
-      "degree": "Bachelors of Commerce",
+      "degree": "Bachelor of Commerce (B.Com)",
       "institution": "SGTB Khalsa College, Delhi University",
-      "period": "July 2019-June 2025",
-      "description": "Bachelors of Commerce in Commerce - GPA: 8.68",
-      "achievements": [],
-      "color": "#764ba2",
+      "period": "July 2019 - June 2025",
+      "location": "New Delhi, India",
+      "description": "Comprehensive business education covering Business Management, Corporate Accounting, Corporate Law, Economics, and Marketing fundamentals.",
+      "achievements": [
+        "CGPA: 8.68/10",
+        "Junior Secretary at Aakriti Art Society - Led 35-member team for inter-college fest",
+        "Co-Director of Social Media at Rotaract Club of Delhi Vikas"
+      ],
+      "color": "#8b5cf6",
       "icon": "fas fa-graduation-cap"
     }
   ],
   "certificationsTitle": "Certifications & Awards",
-  "certifications": []
+  "certifications": [
+    {
+      "name": "Social Impact Champion Award",
+      "issuer": "Ernst & Young",
+      "year": "2023",
+      "icon": "fas fa-trophy",
+      "color": "#ec4899"
+    },
+    {
+      "name": "Digital Marketing Certification",
+      "issuer": "Google Digital Garage",
+      "year": "2021",
+      "icon": "fab fa-google",
+      "color": "#10b981"
+    },
+    {
+      "name": "Personal Branding",
+      "issuer": "Udemy",
+      "year": "2022",
+      "icon": "fas fa-certificate",
+      "color": "#f59e0b"
+    },
+    {
+      "name": "Interpersonal Communication",
+      "issuer": "Skillsoft",
+      "year": "2022",
+      "icon": "fas fa-comments",
+      "color": "#6366f1"
+    }
+  ]
 }

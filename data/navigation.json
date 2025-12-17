@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Arshya JAIN",
+    "name": "Arshya Jain",
     "href": "#home"
   },
   "menuItems": [
@@ -21,13 +21,18 @@
     },
     {
       "href": "#projects",
-      "icon": "fas fa-project-diagram",
-      "text": "Projects"
+      "icon": "fas fa-trophy",
+      "text": "Achievements"
     },
     {
       "href": "#skills",
-      "icon": "fas fa-code",
+      "icon": "fas fa-chart-bar",
       "text": "Skills"
+    },
+    {
+      "href": "#education",
+      "icon": "fas fa-graduation-cap",
+      "text": "Education"
     },
     {
       "href": "#contact",
