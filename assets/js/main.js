@@ -602,7 +602,9 @@ function initializeNavigation() {
 // ============================================
 function initializeScrollEffects() {
     const navbar = document.getElementById('navbar');
+    const navBrand = document.getElementById('nav-brand');
     const navLinks = document.querySelectorAll('.nav-link');
+    const heroSection = document.getElementById('hero');
 
     window.addEventListener('scroll', () => {
         // Navbar scroll effect
@@ -610,6 +612,16 @@ function initializeScrollEffects() {
             navbar.classList.add('scrolled');
         } else {
             navbar.classList.remove('scrolled');
+        }
+
+        // Show nav-brand only after scrolling past hero section
+        if (heroSection && navBrand) {
+            const heroBottom = heroSection.offsetTop + heroSection.offsetHeight - 100;
+            if (window.scrollY > heroBottom) {
+                navBrand.classList.add('visible');
+            } else {
+                navBrand.classList.remove('visible');
+            }
         }
 
         // Active link highlighting

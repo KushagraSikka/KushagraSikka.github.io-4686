@@ -198,7 +198,16 @@ body {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    transition: all var(--transition-fast);
+    transition: all var(--transition-normal);
+    opacity: 0;
+    transform: translateY(-10px);
+    pointer-events: none;
+}
+
+.nav-brand.visible {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
 }
 
 .nav-brand:hover {
